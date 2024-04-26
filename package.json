@@ -1,0 +1,17 @@
+{
+  "name": "adapt-lenisSmoothScrolling",
+  "version": "0.9.2",
+  "framework": ">=5.0.0",
+  "homepage": "",
+  "bugs": "",
+  "extension": "lenisSmoothScrolling",
+  "displayName": "Lenis smooth scrolling",
+  "description": "Add smooth scrolling experience",
+  "main": "/js/adapt-lenisSmoothScrolling.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPL-3.0",
+  "targetAttribute": "_lenisSmoothScrolling"
+}
